@@ -5,7 +5,7 @@ Meu Projeto: Ebook Gerado por I.A.
 
 Este projeto tem como objetivo criar um ebook digital utilizando ferramentas de IA. O tema central é Mulheres na Tecnologia, com foco na história e liderança feminina na computação e programação. Todos os prompts e recursos utilizados estão detalhados abaixo.
 
-<a href="https://github.com/seu-usuario/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20mulheres-na-tecnologia.pdf" title="View PDF now"> 📕 Clique aqui para ler o ebook</a>
+<a href="https://github.com/giseleoliver9/prompts-recipe-to-create-a-ebook/blob/main/output/EBOOK.pdf"> 📕 Clique aqui para ler o ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
